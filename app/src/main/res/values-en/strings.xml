@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">30 Days of Self-Care</string>
+    <string name="title_activity_main">Tips for every day</string>
+    <string name="title_activity_detail">About the tip</string>
+</resources>
